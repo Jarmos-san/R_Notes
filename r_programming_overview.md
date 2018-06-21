@@ -27,17 +27,15 @@ Using Some Basic Functions
     `runif` = Random Number Generator of a uniform distribution
 
 	Example:-
-
+```R
 	> runif(9, 3, 3)
- 3 3 3 3 3 3 3 3 3
-
+	3 3 3 3 3 3 3 3 3
 	> runif(9, 3, 22)
- 20.949677 16.180729 11.319621 17.589032 15.296086  8.977608 20.669086  5.782250  7.529091
-
+	20.949677 16.180729 11.319621 17.589032 15.296086  8.977608 20.669086  5.782250  7.529091
 	> runif(10, 0, 22)
-  7.717004  3.475022  8.140339  7.414284 13.775444  7.651788  4.624573  1.369649 21.285684  7.126922
-
-    `rnorm` = Random Number Generator of a normal distribution
+	7.717004  3.475022  8.140339  7.414284 13.775444  7.651788  4.624573  1.369649 21.285684  7.126922
+```
+	`rnorm` = Random Number Generator of a normal distribution
 
 	Takes in three arguments in the format `(n, min, max)` where `n` is the number of observations, `min` & `max` for the minimum and maximum observation.
 
