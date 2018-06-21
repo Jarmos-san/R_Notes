@@ -26,7 +26,7 @@ Using Some Basic Functions
 	
 `runif` = Random Number Generator of a uniform distribution
 
-	Example:-
+Example:-
 ```R
 	> runif(9, 3, 3)
 	3 3 3 3 3 3 3 3 3
