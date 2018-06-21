@@ -1,4 +1,4 @@
-R - Programing Overview`WIP`
+R - Programing Overview
 ---
 - "R is an open-source, high level programming language for data analysis"
 	- being **OPEN-SOURCE** means everyone can contribute to R in the form of libraries(**_packages_**)
