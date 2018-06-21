@@ -20,7 +20,7 @@ R - Programing Overview
 		6. Web scraping
 		7. Data visualization for website integration(using Shiny)
 		
-Using Some Basic Functions
+Basic Functions
 ---
 - Used mainly to explain a certain question or address a problem on StackOverflow and elsewhere.
 	
@@ -50,6 +50,95 @@ Takes in three arguments in the format `(n, min, max)` where `n` is the number o
 	- Available arguments
 	- Order of arguments
 	- Default settings of arguments
+
+- `seq()` - generates regular sequences of a vector characters.
+	- Arguments: `from`, `length`, `by`
+
+- paste() - string concatenation
+	- Arguments: `sep`
+
+- `rep()` - replicates elements of vectors & lists
+	- Arguments: `x`, `times`, `each`
+
+- Index positions;
+	- `which()` - returns the index position(s) of a given value from object "x"
+	- `[]` - returns the value of the specified index from object "x"
+
+Objects
+-----
+- _**OBJECT**_ can be considered as a collection of data that can be used as one;
+	- whole dataset
+	- result of a calculation
+ 	- a part of a dataset with specific traits
+
+- Different ==**OBJECT**== properties/classes can determine what can be done with the data. 
+	- Examples of an **Object Class** would be a `data.frame` or a `vector`
+
+- Objects can be assigned to a `variable` using either the `<-` or `->`. The `=` operator and the `assign()` function is also interchangeably.
+
+Using Brackets
+-----
+
+- R uses three types of brackets *Round Brackets* `()`, *Square Brackets* `[]`, *Curly Brackets*`{}`. 
+ - *Round Brackets*`()`
+   - Used in the standard form to signify data used together
+   - Used to bind values together
+   - Mainly used by pre-defined functions  
+ - *Square Brackets*`[]`
+   - Used during filtering data
+   - Used for indication index positions within an object
+ - *Curly Brackets*`{}`
+   - Used user-defined functions 
+
+Functions and Loops
+---
+- In the R programming language, _**functions**_ are`OBJECTS` which can be programmed to make calculations.
+
+- Structure of a R function looks like this;
+	```
+	name <- function (argument) {statements} 
+	the arguments specify the components to be used in the function 
+	```
+
+   Example of a function can be written as follows;
+   ```R
+   myFunc <- function(x) {x + X}
+   myFunc(10)
+   20
+   ```
+
+- _**Loops**_ on the other hand allow a certain operation to be performed a ### of times.
+
+	Example;
+    ```R
+    for (i in 1:7) {print (i)}
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    ```
+Arithmetic Operators
+----
+
+- R can be used as a calculator for performing basic arithmetic operations like;
+
+	```R
+	4 + 4 + 5
+	13
+	```
+    
+- While the spacing between characters doesn't matter R follows flow of operation execution like;
+
+	```R
+	(5-3)^3 #operations within the parenthesis will be excuted first
+	8
+	```
+    
+- R accepts ` +, -, /, * and ^` for addition, subtraction, division, multiplication and exponent respectively.
+
 
 Common Mistakes to Take Care Of
 ----
