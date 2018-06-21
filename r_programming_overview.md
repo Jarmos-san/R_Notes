@@ -24,7 +24,7 @@ Using Some Basic Functions
 ---
 - Used mainly to explain a certain question or address a problem on StackOverflow and elsewhere.
 	
-    `runif` = Random Number Generator of a uniform distribution
+`runif` = Random Number Generator of a uniform distribution
 
 	Example:-
 ```R
@@ -35,13 +35,14 @@ Using Some Basic Functions
 	> runif(10, 0, 22)
 	7.717004  3.475022  8.140339  7.414284 13.775444  7.651788  4.624573  1.369649 21.285684  7.126922
 ```
-	`rnorm` = Random Number Generator of a normal distribution
 
-	Takes in three arguments in the format `(n, min, max)` where `n` is the number of observations, `min` & `max` for the minimum and maximum observation.
+`rnorm` = Random Number Generator of a normal distribution
+
+Takes in three arguments in the format `(n, min, max)` where `n` is the number of observations, `min` & `max` for the minimum and maximum observation.
 
 **_IMPORTANT:_**
-		1. The order of the argument matters.
-        2. Some of the arguments are mandatory, while some of them aren't.
+1. The order of the argument matters.
+2. Some of the arguments are mandatory, while some of them aren't.
 
 - `set.seed(65)` is used to make the random sample reproducible, the argument of the function `seed()` which is always a `numeric` implies `R`for using it's `nth` random number variation.
 
