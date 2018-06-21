@@ -57,7 +57,7 @@ Common Mistakes to Take Care Of
 - Packages must be downloaded either through RStudio's package manager or using `install.package()` function. _**REQUIRED ONLY ONCE**_
 - Package should be activated once again either through RStudio or using `library()` function. _**REQUIRED FOR EACH SESSION**_
 -  The R programming language is _**CASE SENSITIVE**_
--  The _**concatenation function**_ `c()` allows the whole vector rather than the variable to be input into a function.
+-  The _**CONCATENATION FUNCTION**_ `c()` allows the whole vector rather than the variable to be input into a function.
 	Example:-
     `plot.ts(c(3,4,5,6,7,8))`is the correct form as the function `plot.ts()` accepts 	only a vector as it's argument.
     `plot.ts(3,4,5,6,7,8)`would give an error message as this `Error in match.arg(plot.type) : 'arg' must be NULL or a character vector`
