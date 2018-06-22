@@ -99,7 +99,7 @@ Objects
 	- result of a calculation
  	- a part of a dataset with specific traits
 
-- Different ==**OBJECT**== properties/classes can determine what can be done with the data. 
+- Different **OBJECT** properties/classes can determine what can be done with the data. 
 	- Examples of an **Object Class** would be a `data.frame` or a `vector`
 
 - Objects can be assigned to a `variable` using either the `<-` or `->`. The `=` operator and the `assign()` function is also interchangeably.
