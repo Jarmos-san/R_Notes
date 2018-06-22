@@ -123,9 +123,9 @@ Functions and Loops
 - In the R programming language, _**functions**_ are`OBJECTS` which can be programmed to make calculations.
 
 - Structure of a R function looks like this;
-	```
+	```R
 	name <- function (argument) {statements} 
-	the arguments specify the components to be used in the function 
+	#the arguments specify the components to be used in the function 
 	```
 
    Example of a function can be written as follows;
