@@ -24,4 +24,10 @@ Books that I prefer reading, will be adding a couple more as come across the use
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) | [Amazon link](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=pd_sbs_14_4?_encoding=UTF8&pd_rd_i=1461471370&pd_rd_r=fd189716-755f-11e8-b8ae-e34c8c984c61&pd_rd_w=CX6Rl&pd_rd_wg=tr6ol&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=5825442648805390339&pf_rd_r=D4RMPQ3K4113SVXQGGSG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=D4RMPQ3K4113SVXQGGSG)
 - [Hands-On Programming With R](https://d1b10bmlvqabco.cloudfront.net/attach/ighbo26t3ua52t/igp9099yy4v10/igz7vp4w5su9/OReilly_HandsOn_Programming_with_R_2014.pdf)
 
+License
+------
+This work licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+
 _**GOOD LUCK AND HAVE FUN LEARNING!**_
+
