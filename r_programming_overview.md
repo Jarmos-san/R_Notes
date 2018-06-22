@@ -40,10 +40,6 @@ Example:-
 
 Takes in three arguments in the format `(n, min, max)` where `n` is the number of observations, `min` & `max` for the minimum and maximum observation.
 
-**_IMPORTANT:_**
-1. The order of the argument matters.
-2. Some of the arguments are mandatory, while some of them aren't.
-
 - `set.seed(65)` is used to make the random sample reproducible, the argument of the function `seed()` which is always a `numeric` implies `R`for using it's `nth` random number variation.
 
 - `help()` or ?_func_ can be useful to get info about;
@@ -64,6 +60,38 @@ Takes in three arguments in the format `(n, min, max)` where `n` is the number o
 	- `which()` - returns the index position(s) of a given value from object "x"
 	- `[]` - returns the value of the specified index from object "x"
 
+- `head()` - prints first six rows
+
+- `tail()` - prints last six rows
+
+- `summary()` - prints basic statistics on each of the variable
+
+- `plot()` - prints a xy-plot
+
+- `hist()` - prints a histogram
+
+**_IMPORTANT:_**
+1. The order of the argument matters.
+2. Some of the arguments are mandatory, while some of them aren't.
+
+- **_Dataframe manipulation_**
+	- `$` - gives access to a specific column within a dataset
+	```R
+	data <- dataframe$column
+	```
+ 	- `attach()` - attaches datasets to the environment
+ 	```R
+ 	attach(dataset)
+ 	```
+ 	-  `detach()` - detaches a datasets from the environment
+ 	```R
+    detach(dataset)
+    ```
+	 -  `[]` - extracts data from a dataset a vale level
+	```R
+    dataset[2]
+    ```
+    
 Objects
 -----
 - _**OBJECT**_ can be considered as a collection of data that can be used as one;
