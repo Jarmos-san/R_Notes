@@ -38,7 +38,7 @@ Comparison Operators in R
 	Example:
     ```R
     v <- c(1,2,3,4,5)
-    v < 2 #Operator checks each element in vector v for elements less than 2
+    v < 2	#Operator checks each element in vector v for elements less than 2
     FALSE TRUE FALSE FALSE FALSE
     v == 2
     FALSE FALSE TRUE FALSE FALSE FALSE
