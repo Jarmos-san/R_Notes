@@ -13,7 +13,7 @@ The following are the links to the resources that I've prepared the aforemention
 
 - [R Basics - R Programming Language Introduction](https://www.udemy.com/r-basics/learn/v4/overview) _**(FREE)**_
 - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/data-science-and-machine-learning-bootcamp-with-r/) _**(RECOMMENDED)**_
-- Highly recommend this specific course created by John Hopkins University [R Programming](https://www.coursera.org/learn/r-programming)
+- [R Programming Course by John Hopkins University](https://www.coursera.org/learn/r-programming) _**(HIGHLY RECOMMENDED)**_
 
 Books
 -----
