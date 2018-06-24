@@ -1,24 +1,26 @@
 # Matrices
 - Matrices are 2D data structures storing elements of the same data types.
 
-- Creating a matrix
-	Example:
-    ```R
-    matrix(1:10)	#Creates a 2D matrix with 10 rows and 1 columns
-         [,1]
- 	[1,]    1
- 	[2,]    2
-	[3,]    3
-	[4,]    4
-	[5,]    5
-	[6,]    6
-	[7,]    7
-	[8,]    8
-	[9,]    9
-	[10,]   10
-    ```
-   - Additional parameters of the `matrix()` function:
-   ```R
+Creating a matrix
+-------
+Example:
+
+```R
+matrix(1:10)	#Creates a 2D matrix with 10 rows and 1 columns
+      [,1]
+ [1,]    1
+ [2,]    2
+ [3,]    3
+ [4,]    4
+ [5,]    5
+ [6,]    6
+ [7,]    7
+ [8,]    8
+ [9,]    9
+ [10,]   10
+```
+- Additional parameters of the `matrix()` function:
+  ```R
    #byrow = FALSE lets the matrix fill by column first
    matrix(1:12, byrow = FALSE, nrow = 4)
      	[,1] [,2] [,3]
