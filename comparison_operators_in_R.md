@@ -1,6 +1,4 @@
-Comparison Operators in R
-------
-
+# Comparison Operators in R
 - **Comparison Operators** in R is used to make comparison between variables returning a logical value.
 
 	Example:
