@@ -5,6 +5,7 @@ As the title and description already suggests that this is a small side project 
 
 - [R Programming Overview](https://github.com/Jarmos-san/R_Notes/blob/master/r_programming_overview.md)
 - [Comparison Operators in R](https://github.com/Jarmos-san/R_Notes/blob/master/comparison_operators_in_R.md)
+- [Matrices](https://github.com/Jarmos-san/R_Notes/blob/master/matrices.md)
 
 MOOCs
 -----
