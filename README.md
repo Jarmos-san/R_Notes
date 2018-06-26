@@ -7,6 +7,14 @@ As the title and description already suggests that this is a small side project 
 - [Comparison Operators in R](https://github.com/Jarmos-san/R_Notes/blob/master/comparison_operators_in_R.md)
 - [Matrices](https://github.com/Jarmos-san/R_Notes/blob/master/matrices.md)
 
+TODO(Help Required)
+-----
+Listed according to it's priorities
+- Prepare downloadable .pdf/.html format notes
+- Host R_Notes on GitHub Pages
+- Collect and make various beginner exercises available
+- Make IPython/Jupyter notebooks for easier reproducible notes and code snippets
+
 MOOCs
 -----
 
