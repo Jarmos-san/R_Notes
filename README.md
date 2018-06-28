@@ -10,6 +10,10 @@ As the title and description already suggests that this is a small side project 
 - [Comparison Operators in R](https://github.com/Jarmos-san/R_Notes/blob/master/comparison_operators_in_R.md)
 - [Matrices](https://github.com/Jarmos-san/R_Notes/blob/master/matrices.md)
 
+How to Contribute
+-----
+Refer to the [contribution](https://github.com/Jarmos-san/R_Notes/blob/master/CONTRIBUTING.md) page to know know how to contribute. All/Any sort of contributions are welcome for now!
+
 TODO(Help Required)
 -----
 Listed according to it's priorities
