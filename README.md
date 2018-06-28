@@ -38,7 +38,7 @@ Books that I prefer reading, will be adding a couple more as I come across the u
 
 License
 ------
-Although this work is licensed under the [CCA-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), the code snippets using the R programming language is licensed under [The MIT License](https://www.r-project.org/Licenses/MIT).
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), and the underlying source code used to format and display that content is licensed under the [MIT license](https://www.r-project.org/Licenses/MIT).
 
 
 _**GOOD LUCK AND HAVE FUN LEARNING!**_
