@@ -10,10 +10,6 @@ As the title and description already suggests that this is a small side project 
 - [Comparison Operators in R](https://github.com/Jarmos-san/R_Notes/blob/master/comparison_operators_in_R.md)
 - [Matrices](https://github.com/Jarmos-san/R_Notes/blob/master/matrices.md)
 
-How to Contribute
------
-Refer to the [contribution](https://github.com/Jarmos-san/R_Notes/blob/master/CONTRIBUTING.md) page to know know how to contribute. All/Any sort of contributions are welcome for now!
-
 TODO(Help Required)
 -----
 Listed according to it's priorities
@@ -39,6 +35,14 @@ Books that I prefer reading, will be adding a couple more as I come across the u
 - [R For Data Science](http://r4ds.had.co.nz/) | Buy it on [Amazon](https://www.amazon.com/R-Data-Science-Hadley-Wickham/dp/1491910399/ref=as_li_ss_tl?ie=UTF8&qid=1469550189&sr=8-1&keywords=R+for+data+science&linkCode=sl1&tag=devtools-20&linkId=6fe0069f9605cf847ed96c191f4e84dd).
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) | Buy it on [Amazon](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=pd_sbs_14_4?_encoding=UTF8&pd_rd_i=1461471370&pd_rd_r=fd189716-755f-11e8-b8ae-e34c8c984c61&pd_rd_w=CX6Rl&pd_rd_wg=tr6ol&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=5825442648805390339&pf_rd_r=D4RMPQ3K4113SVXQGGSG&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=D4RMPQ3K4113SVXQGGSG)
 - [Hands-On Programming With R](https://d1b10bmlvqabco.cloudfront.net/attach/ighbo26t3ua52t/igp9099yy4v10/igz7vp4w5su9/OReilly_HandsOn_Programming_with_R_2014.pdf)
+
+How to Contribute
+-----
+Refer to the [contribution](https://github.com/Jarmos-san/R_Notes/blob/master/CONTRIBUTING.md) page to know know how to contribute. All/Any sort of contributions are welcome for now!
+
+Code of Conduct
+-----
+As a community of mature adults it's expected from everyone participating in this project to be civil to eachother and follow the [Contributor Covenant Code of Conduct](https://github.com/Jarmos-san/R_Notes/blob/master/CODE_OF_CONDUCT.md) religiously.
 
 License
 ------
