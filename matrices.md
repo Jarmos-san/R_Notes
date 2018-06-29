@@ -1,7 +1,13 @@
 # Matrices
 - Matrices are 2D data structures storing elements of the same data types.
 
-Creating a matrix
+# Contents
+- [Creating A Matrix](https://github.com/Jarmos-san/R_Notes/blob/master/matrices.md#creating-a-matrix)
+- [Matrix Arithmetic](https://github.com/Jarmos-san/R_Notes/blob/master/matrices.md#matrix-arithmatic)
+- [Matrix Operations](https://github.com/Jarmos-san/R_Notes/blob/master/matrices.md#matrix-operations)
+- [Matrix Indexing](https://github.com/Jarmos-san/R_Notes/blob/master/matrices.md#matrix-indexing)
+
+Creating a Matrix
 -------
 Example:
 
@@ -216,3 +222,72 @@ Matrix Operations
 	MSFT 230 231 232 233 220 229.2
 	FB   111 112 113 120 145 120.2
 	```
+	
+Matrix Indexing
+------
+
+Similar to vector indexing, matrices can be indexed too with the following syntax
+
+`matrix[row,column]`
+
+_Example_
+    	
+```R
+  mat <- matrix(1:50, byrow = TRUE, nrow = 5)
+  mat
+       	[,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8] [,9] [,10]
+[1,]    1    2    3    4    5    6    7    8    9    10
+[2,]   11   12   13   14   15   16   17   18   19    20
+[3,]   21   22   23   24   25   26   27   28   29    30
+[4,]   31   32   33   34   35   36   37   38   39    40
+[5,]   41   42   43   44   45   46   47   48   49    50
+    # 2 is the 2nd element in the 1st row 2nd column as specified in the syntax
+  mat[1,2]			
+  2
+   # The " : " can also be used to specify the range of the row and column  
+  mat[1:3, 4:6]
+       	[,1] [,2] [,3]
+[1,]    4    5    6
+[2,]   14   15   16
+[3,]   24   25   26
+ ```
+    
+- Factor and Catergorical Matrices
+	The `factor()` function is quite useful for applying ML and DS techniques to the dataset, to create _dummy variables_. The `factor()` function converts the data/vector set to a categorical variables.
+    
+    _Example_
+    
+    ```R
+     animal <- c('d','c','d','c','c')
+     
+     factor(animal)
+	 d c d c c
+	 Levels: c d # "Levels" signify the two categories of the vector "animal" 
+    ```
+    
+    On a side note, in R Categorical values are of two types:
+    1. _**Nominal Categorical Variable**_ - These variables **DON'T** have any order.
+    2. _**Ordinal Categorical Variable**_ - These variables have some order.
+    
+    _Example_
+    
+    ```R
+    temps <- c('cold','med','cold','med','hot','hot','cold')
+	fact.temp <- factor(temps,ordered=TRUE,levels=c('cold','med','hot'))
+	
+    fact.temp
+	cold med  cold med  hot  hot  cold
+	Levels: cold < med < hot	# Example of ordered catergorical variable signified by the "<" sign
+    ```
+    
+   Factorising/Categorising matrices in such a way makes the `summary()` function available for further use like this;
+   
+   ```R
+   summary(temps)
+   Length     Class      Mode 
+            7   character character 
+	
+   summary(fact.temp)
+	cold  med  hot 
+   	   3    2    2
+   ```
