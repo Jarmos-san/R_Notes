@@ -1,5 +1,15 @@
-R - Programing Overview
----
+# R - Programing Overview
+
+# Content
+- [Overview](https://github.com/Jarmos-san/R_Notes/blob/master/r_programming_overview.md#r---programing-overview)
+- [Basic Functions](https://github.com/Jarmos-san/R_Notes/blob/master/r_programming_overview.md#basic-functions)
+- [Objects](https://github.com/Jarmos-san/R_Notes/blob/master/r_programming_overview.md#objects)
+- [Using Brackets](https://github.com/Jarmos-san/R_Notes/blob/master/r_programming_overview.md#using-brackets)
+- [Functions and Loops](https://github.com/Jarmos-san/R_Notes/blob/master/r_programming_overview.md#functions-and-loops)
+- [Arithmetic Operators](https://github.com/Jarmos-san/R_Notes/blob/master/r_programming_overview.md#arithmetic-operators)
+- [Common Mistakes to Take Care of](https://github.com/Jarmos-san/R_Notes/blob/master/r_programming_overview.md#common-mistakes-to-take-care-of)
+
+# Overview
 - "R is an open-source, high level programming language for data analysis"
 	- being **OPEN-SOURCE** means everyone can contribute to R in the form of libraries(**_packages_**)
 		1. First R-version was realeased in 2000
