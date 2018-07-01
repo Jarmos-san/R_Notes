@@ -10,6 +10,7 @@ As the title and description already suggests that this is a small side project 
 - [Comparison Operators in R](https://github.com/Jarmos-san/R_Notes/blob/master/comparison_operators_in_R.md)
 - [Matrices](https://github.com/Jarmos-san/R_Notes/blob/master/matrices.md)
 - [Dataframes](https://github.com/Jarmos-san/R_Notes/blob/master/dataframes.md)
+- [Lists](https://github.com/Jarmos-san/R_Notes/blob/master/lists.md)
 
 TODO(Help Required)
 -----
