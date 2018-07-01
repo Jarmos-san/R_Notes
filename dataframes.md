@@ -2,9 +2,9 @@
 
 Content:
 -----
-- [Dataframe Built-in Functions]()
-- [Indexing and Slicing]()
-- [Dataframes Overview]()
+- [Dataframe Built-in Functions](https://github.com/Jarmos-san/R_Notes/blob/master/dataframes.md#dataframe-built-in-functions)
+- [Indexing and Slicing](https://github.com/Jarmos-san/R_Notes/blob/master/dataframes.md#indexing-and-slicing)
+- [Dataframes Overview](https://github.com/Jarmos-san/R_Notes/blob/master/dataframes.md#dataframes-overview)
 
 Unlike _**vectors**_ and _**matrices**_, _**dataframes**_ are quite powerful as they can store multiple data types within it.
 R has some built-in dataframes which like `mtcars`, `women`,  `states.x77` datasets. On a first glance it would be quite obvious how Dataframes has rows and columns just like matrices but they're named. The list of **ALL** the datasets available on R-base can be accessed through the function `data()`. 
@@ -111,7 +111,7 @@ Dataframes Overview
 - _**Importing and Exporting Data**_:
 
 	```R
-	read.csv(~/path/to/filename.csv)					 #Function to read .csv files
+	read.csv(~/path/to/filename.csv)			#Function to read .csv files
 	write.csv(~/path/to/save/destinatio/filename.csv)	#Function to write .csv files
     ```
 
@@ -120,14 +120,14 @@ Dataframes Overview
 	```R
     nrow(df)	  #count rows
     ncol(df)	  #count columns
-    colnames()	#check columns names
-    rownames()	#check row names
+    colnames()	  #check columns names
+    rownames()	  #check row names
     ```
 
 - _**Dealing with missing values**_:
 
     ```R
-	 head(is.na(women))	  #Check for missing in the dataset
+	 head(is.na(women))	   #Check for missing in the dataset
      height weight		   #returns df of bolean values
 	[1,]  FALSE  FALSE
 	[2,]  FALSE  FALSE
@@ -136,8 +136,8 @@ Dataframes Overview
 	[5,]  FALSE  FALSE
 	[6,]  FALSE  FALSE
     
-    any(is.na(women))		# Checks whole dataset for missing value
-	[1] FALSE				#returns a T if 1+ missing value exists
+    any(is.na(women))	   # Checks whole dataset for missing value
+	[1] FALSE		   #returns a T if 1+ missing value exists
     
     df[is.na(df)] <- 0	   #used to assign a value to missing values
     ```
