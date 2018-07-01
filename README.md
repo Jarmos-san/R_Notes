@@ -11,6 +11,10 @@ As the title and description already suggests that this is a small side project 
 - [Matrices](https://github.com/Jarmos-san/R_Notes/blob/master/matrices.md)
 - [Dataframes](https://github.com/Jarmos-san/R_Notes/blob/master/dataframes.md)
 - [Lists](https://github.com/Jarmos-san/R_Notes/blob/master/lists.md)
+- [`for` Loops](https://github.com/Jarmos-san/R_Notes/blob/master/for_loops.md)
+- [Functions](https://github.com/Jarmos-san/R_Notes/blob/master/functions.md)
+- [`if-else` Statements](https://github.com/Jarmos-san/R_Notes/blob/master/if_else_statements.md)
+- [`while` Loops](https://github.com/Jarmos-san/R_Notes/blob/master/while_loops.md)
 
 TODO(Help Required)
 -----
