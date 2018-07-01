@@ -3,10 +3,10 @@
 Content
 ----
 
-- [Overview]()
-- [Default Values of a Function]()
-- [Returning Values]()
-- [Scope]()
+- [Overview](https://github.com/Jarmos-san/R_Notes/blob/master/functions.md#overview)
+- [Default Values of a Function](https://github.com/Jarmos-san/R_Notes/blob/master/functions.md#default-values-of-a-function)
+- [Returning Values](https://github.com/Jarmos-san/R_Notes/blob/master/functions.md#returning-values)
+- [Scope](https://github.com/Jarmos-san/R_Notes/blob/master/functions.md#scope)
 
 Overview
 ----
