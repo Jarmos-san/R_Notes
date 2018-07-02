@@ -15,6 +15,11 @@ As the title and description already suggests that this is a small side project 
 - [Functions](https://github.com/Jarmos-san/R_Notes/blob/master/functions.md)
 - [`if-else` Statements](https://github.com/Jarmos-san/R_Notes/blob/master/if_else_statements.md)
 - [`while` Loops](https://github.com/Jarmos-san/R_Notes/blob/master/while_loops.md)
+- [Logical Operators](https://github.com/Jarmos-san/R_Notes/blob/master/logical_operators.md)
+- [Mathematical_Functions](https://github.com/Jarmos-san/R_Notes/blob/master/mathematical_functions.md)
+- [Regular](https://github.com/Jarmos-san/R_Notes/blob/master/regex.md)
+- [Built-in Functions](https://github.com/Jarmos-san/R_Notes/blob/master/builtin_functions.md)
+- [The apply() Functions](https://github.com/Jarmos-san/R_Notes/blob/master/apply_func.md)
 
 TODO(Help Required)
 -----
