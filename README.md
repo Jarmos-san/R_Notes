@@ -19,7 +19,7 @@ As the title and description already suggests that this is a small side project 
 - [Mathematical_Functions](https://github.com/Jarmos-san/R_Notes/blob/master/mathematical_functions.md)
 - [Regular Expressions](https://github.com/Jarmos-san/R_Notes/blob/master/regex.md)
 - [Built-in Functions](https://github.com/Jarmos-san/R_Notes/blob/master/builtin_functions.md)
-- [The apply() Functions](https://github.com/Jarmos-san/R_Notes/blob/master/apply_func.md)
+- [The `apply()` Functions](https://github.com/Jarmos-san/R_Notes/blob/master/apply_func.md)
 
 TODO(Help Required)
 -----
