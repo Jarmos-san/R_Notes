@@ -1,14 +1,5 @@
 # Built-in R Features & Functions
 
-Content:
-----
-- [`seq()`: Create sequences]()
-- [`sort()`: Sort a vector]()
-- [`rev()`: Reverse elements in object]()
-- [`str()`: Show the structure of an object]()
-- [`append()`: Merge objects together (_works on vectors and lists_)]()
-- [Check/Convert Datatypes]()
-
 `seq()`: Create Sequences
 ----
 The `seq()` function allows a user to create a sequence of number. The syntax of this function is as follows which can be described as the starting number of a sequence followed the ending number and the steps to skip numbers which are seperated by `,` commas.
