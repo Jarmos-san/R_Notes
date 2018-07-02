@@ -1,13 +1,5 @@
 # Logical Operators
 
-Content
------
-- [Overview]()
-- [`AND`/`&` Operator]()
-- [`OR`/`|` Operator]()
-- [`NOT`/`!`]()
-
-
 Overview:
 ----
 Logical Operators allows us to combine multiple comparison operators in a statement. The logical operators and their R notation are listed as follows:
