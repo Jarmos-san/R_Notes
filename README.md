@@ -20,6 +20,9 @@ As the title and description already suggests that this is a small side project 
 - [Regular Expressions](https://github.com/Jarmos-san/R_Notes/blob/master/regex.md)
 - [Built-in Functions](https://github.com/Jarmos-san/R_Notes/blob/master/builtin_functions.md)
 - [The `apply()` Functions](https://github.com/Jarmos-san/R_Notes/blob/master/apply_func.md)
+- [The `dplyr` Package](https://github.com/Jarmos-san/R_Notes/blob/master/dplyr_package.md)
+- [The `%<%` Pipe Operator](https://github.com/Jarmos-san/R_Notes/blob/master/pipe_operator.md)
+- [The `tidyr` Package](https://github.com/Jarmos-san/R_Notes/blob/master/tidyr_package.md)
 
 TODO(Help Required)
 -----
